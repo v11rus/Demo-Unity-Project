@@ -1,0 +1,3452 @@
+fileFormatVersion: 2
+guid: 0413f6fd827eb5341a9b6dd570a48fca
+timeCreated: 1489936484
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dwarves_0
+    21300002: dwarves_1
+    21300004: dwarves_2
+    21300006: dwarves_3
+    21300008: dwarves_4
+    21300010: dwarves_5
+    21300012: dwarves_6
+    21300014: dwarves_7
+    21300016: dwarves_8
+    21300018: dwarves_9
+    21300020: dwarves_10
+    21300022: dwarves_11
+    21300024: dwarves_12
+    21300026: dwarves_13
+    21300028: dwarves_14
+    21300030: dwarves_15
+    21300032: dwarves_16
+    21300034: dwarves_17
+    21300036: dwarves_18
+    21300038: dwarves_19
+    21300040: dwarves_20
+    21300042: dwarves_21
+    21300044: dwarves_22
+    21300046: dwarves_23
+    21300048: dwarves_24
+    21300050: dwarves_25
+    21300052: dwarves_26
+    21300054: dwarves_27
+    21300056: dwarves_28
+    21300058: dwarves_29
+    21300060: dwarves_30
+    21300062: dwarves_31
+    21300064: dwarves_32
+    21300066: dwarves_33
+    21300068: dwarves_34
+    21300070: dwarves_35
+    21300072: dwarves_36
+    21300074: dwarves_37
+    21300076: dwarves_38
+    21300078: dwarves_39
+    21300080: dwarves_40
+    21300082: dwarves_41
+    21300084: dwarves_42
+    21300086: dwarves_43
+    21300088: dwarves_44
+    21300090: dwarves_45
+    21300092: dwarves_46
+    21300094: dwarves_47
+    21300096: dwarves_48
+    21300098: dwarves_49
+    21300100: dwarves_50
+    21300102: dwarves_51
+    21300104: dwarves_52
+    21300106: dwarves_54
+    21300108: dwarves_55
+    21300110: dwarves_56
+    21300112: dwarves_57
+    21300114: dwarves_58
+    21300116: dwarves_59
+    21300118: dwarves_60
+    21300120: dwarves_61
+    21300122: dwarves_62
+    21300124: dwarves_63
+    21300126: dwarves_64
+    21300128: dwarves_65
+    21300130: dwarves_66
+    21300132: dwarves_67
+    21300134: dwarves_68
+    21300136: dwarves_69
+    21300138: dwarves_70
+    21300140: dwarves_71
+    21300142: dwarves_72
+    21300144: dwarves_73
+    21300146: dwarves_74
+    21300148: dwarves_75
+    21300150: dwarves_76
+    21300152: dwarves_77
+    21300154: dwarves_78
+    21300156: dwarves_79
+    21300158: dwarves_80
+    21300160: dwarves_81
+    21300162: dwarves_82
+    21300164: dwarves_83
+    21300166: dwarves_84
+    21300168: dwarves_85
+    21300170: dwarves_86
+    21300172: dwarves_87
+    21300174: dwarves_88
+    21300176: dwarves_89
+    21300178: dwarves_90
+    21300180: dwarves_91
+    21300182: dwarves_92
+    21300184: dwarves_93
+    21300186: dwarves_94
+    21300188: dwarves_95
+    21300190: dwarves_96
+    21300192: dwarves_97
+    21300194: dwarves_98
+    21300196: dwarves_99
+    21300198: dwarves_100
+    21300200: dwarves_101
+    21300202: dwarves_102
+    21300204: dwarves_103
+    21300206: dwarves_104
+    21300208: dwarves_105
+    21300210: dwarves_106
+    21300212: dwarves_107
+    21300214: dwarves_108
+    21300216: dwarves_109
+    21300218: dwarves_110
+    21300220: dwarves_111
+    21300222: dwarves_112
+    21300224: dwarves_113
+    21300226: dwarves_115
+    21300228: dwarves_116
+    21300230: dwarves_117
+    21300232: dwarves_118
+    21300234: dwarves_119
+    21300236: dwarves_120
+    21300238: dwarves_121
+    21300240: dwarves_122
+    21300242: dwarves_123
+    21300244: dwarves_124
+    21300246: dwarves_125
+    21300248: dwarves_126
+    21300250: dwarves_127
+    21300252: dwarves_128
+    21300254: dwarves_129
+    21300256: dwarves_130
+    21300258: dwarves_131
+    21300260: dwarves_132
+    21300262: dwarves_133
+    21300264: dwarves_134
+    21300266: dwarves_135
+    21300268: dwarves_136
+    21300270: dwarves_137
+    21300272: dwarves_138
+    21300274: dwarves_139
+    21300276: dwarves_140
+    21300278: dwarves_141
+    21300280: dwarves_142
+    21300282: dwarves_143
+    21300284: dwarves_144
+    21300286: dwarves_145
+    21300288: dwarves_146
+    21300290: dwarves_147
+    21300292: dwarves_148
+    21300294: dwarves_149
+    21300296: dwarves_150
+    21300298: dwarves_151
+    21300300: dwarves_152
+    21300302: dwarves_153
+    21300304: dwarves_154
+    21300306: dwarves_155
+    21300308: dwarves_156
+    21300310: dwarves_157
+    21300312: dwarves_158
+    21300314: dwarves_159
+    21300316: dwarves_160
+    21300318: dwarves_161
+    21300320: dwarves_162
+    21300322: dwarves_163
+    21300324: dwarves_164
+    21300326: dwarves_165
+    21300328: dwarves_166
+    21300330: dwarves_167
+    21300332: dwarves_168
+    21300334: dwarves_169
+    21300336: dwarves_170
+    21300338: dwarves_171
+    21300340: dwarves_172
+    21300342: dwarves_173
+    21300344: dwarves_174
+    21300346: dwarves_176
+    21300348: dwarves_177
+    21300350: dwarves_178
+    21300352: dwarves_179
+    21300354: dwarves_180
+    21300356: dwarves_181
+    21300358: dwarves_182
+    21300360: dwarves_183
+    21300362: dwarves_184
+    21300364: dwarves_185
+    21300366: dwarves_186
+    21300368: dwarves_187
+    21300370: dwarves_188
+    21300372: dwarves_189
+    21300374: dwarves_190
+    21300376: dwarves_191
+    21300378: dwarves_192
+    21300380: dwarves_193
+    21300382: dwarves_194
+    21300384: dwarves_195
+    21300386: dwarves_196
+    21300388: dwarves_197
+    21300390: dwarves_198
+    21300392: dwarves_199
+    21300394: dwarves_200
+    21300396: dwarves_201
+    21300398: dwarves_202
+    21300400: dwarves_203
+    21300402: dwarves_204
+    21300404: dwarves_205
+    21300406: dwarves_206
+    21300408: dwarves_207
+    21300410: dwarves_208
+    21300412: dwarves_209
+    21300414: dwarves_210
+    21300416: dwarves_211
+    21300418: dwarves_212
+    21300420: dwarves_213
+    21300422: dwarves_214
+    21300424: dwarves_215
+    21300426: dwarves_216
+    21300428: dwarves_217
+    21300430: dwarves_218
+    21300432: dwarves_219
+    21300434: dwarves_220
+    21300436: dwarves_221
+    21300438: dwarves_222
+    21300440: dwarves_223
+    21300442: dwarves_224
+    21300444: dwarves_225
+    21300446: dwarves_226
+    21300448: dwarves_227
+    21300450: dwarves_228
+    21300452: dwarves_229
+    21300454: dwarves_230
+    21300456: dwarves_231
+    21300458: dwarves_232
+    21300460: dwarves_233
+    21300462: dwarves_234
+    21300464: dwarves_235
+    21300466: dwarves_237
+    21300468: dwarves_238
+    21300470: dwarves_239
+    21300472: dwarves_240
+    21300474: dwarves_241
+    21300476: dwarves_242
+    21300478: dwarves_243
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dwarves_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 881
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 881
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 881
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 881
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 881
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 881
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_6
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 881
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_7
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 881
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_8
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 881
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_9
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 881
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_10
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 881
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_11
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 881
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_12
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 881
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_13
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 881
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_14
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 881
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_15
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 881
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_16
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 881
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_17
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 881
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_18
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 881
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_19
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 881
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 801
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 801
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 801
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 801
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_24
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 801
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_25
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 801
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 801
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_27
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 801
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 801
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_29
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 801
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_30
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 801
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_31
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 801
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_32
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 801
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_33
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 801
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_34
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 801
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_35
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 801
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_36
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 801
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_37
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 801
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_38
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 801
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_39
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 801
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 721
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 721
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_42
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 721
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_43
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 721
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_44
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 721
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 721
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_46
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 721
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_47
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 721
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_48
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 721
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_49
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 721
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_50
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 721
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_51
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 721
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_52
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 719
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_54
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 721
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_55
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 721
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_56
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 721
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_57
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 721
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_58
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 721
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_59
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 721
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_60
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 721
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 641
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 641
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_63
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 641
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_64
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 641
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_65
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 641
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_66
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 641
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_67
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 641
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_68
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 641
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_69
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 641
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_70
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 641
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_71
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 641
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_72
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 641
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_73
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 641
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_74
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 641
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_75
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 641
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_76
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 641
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_77
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 641
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_78
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 641
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_79
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 641
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_80
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 641
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_81
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 561
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_82
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 561
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_83
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 561
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_84
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 561
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_85
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 561
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_86
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 561
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_87
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 561
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_88
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 561
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_89
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 561
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_90
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 561
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_91
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 561
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_92
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 561
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_93
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 561
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_94
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 561
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_95
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 561
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_96
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 561
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_97
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 561
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_98
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 561
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_99
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 561
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_100
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 561
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_101
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 481
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_102
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 481
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_103
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 481
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_104
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 481
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_105
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 481
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_106
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 481
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_107
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 481
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_108
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 481
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 481
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_110
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 481
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_111
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 481
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_112
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 481
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_113
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 478
+        width: 91
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_115
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 481
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_116
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 481
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_117
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 481
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_118
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 481
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_119
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 481
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_120
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 481
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_121
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 481
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_122
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 401
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_123
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 401
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_124
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 401
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_125
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 401
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_126
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 401
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_127
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 401
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_128
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 401
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_129
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 401
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_130
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 401
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_131
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 401
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_132
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 401
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_133
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 401
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_134
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 401
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_135
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 401
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_136
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 401
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_137
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 401
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_138
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 401
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_139
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 401
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_140
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 401
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_141
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 401
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_142
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 321
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_143
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_144
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 321
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_145
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 321
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_146
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 321
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_147
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 321
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_148
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 321
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_149
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 321
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_150
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 321
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_151
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 321
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_152
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 321
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_153
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 321
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_154
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 321
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_155
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 321
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_156
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 321
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_157
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 321
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_158
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 321
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_159
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 321
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_160
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 321
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_161
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 321
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_162
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 241
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_163
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 241
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_164
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 241
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_165
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 241
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_166
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 241
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 241
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_168
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 241
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_169
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 241
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_170
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 241
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_171
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 241
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_172
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 241
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_173
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 241
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_174
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 241
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_176
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 241
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_177
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 241
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_178
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 241
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_179
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 241
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_180
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 241
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_181
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 241
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_182
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 241
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_183
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 161
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_184
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 161
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_185
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 161
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_186
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 161
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_187
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 161
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_188
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 161
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_189
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 161
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_190
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 161
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_191
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 161
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_192
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 161
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_193
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 161
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_194
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 161
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_195
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 161
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_196
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 161
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_197
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 161
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_198
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 161
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_199
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 161
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_200
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 161
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_201
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 161
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_202
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 161
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_203
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 81
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_204
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 81
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_205
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 81
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_206
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 81
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_207
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 81
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_208
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 81
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_209
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 81
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_210
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 81
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_211
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 81
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_212
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 81
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_213
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 81
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_214
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 81
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_215
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 81
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_216
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 81
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_217
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 81
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_218
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 81
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_219
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 81
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_220
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 81
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_221
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 81
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_222
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 81
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_223
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_224
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_225
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_226
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_227
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_228
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_229
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_230
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_231
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_232
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_233
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_234
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_235
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 0
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_237
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_238
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_239
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_240
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_241
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_242
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dwarves_243
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
